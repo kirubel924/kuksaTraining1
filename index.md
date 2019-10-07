@@ -1,8 +1,13 @@
-[Kuksa App IDE]()
+[Kuksa App IDE](../kuksa.md)
+
 [Getting Started with the App IDE]()
+
 [Required System Configuration]()
+
 [How to set up the IDE]()
+
 [Writing your first Kuksa In-Vehicle App]()
+
 [Writing your first Kuksa Cloud App]()
 [Testing your Apps]()
 [Deploying your apps]()
