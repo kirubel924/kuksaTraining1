@@ -53,9 +53,15 @@ The kuksa ecosystem will provide a comprehensive environment across various fram
    |Current  |6.10|
    |Plan     |7.0|
 
+<!-- blank line -->
+<br>
+
 ## 2.1 Getting Started with the App IDE
 
 Kuksa IDE is built as a full custom Eclipse Che Assembly. Therefore, it includes all assembly components specified and described in Eclipse Che Assembly are included into Kuksa IDE’s build system. A quick start steps can be found from the link [here](https://kuksa-che-ide.readthedocs.io/en/latest/quick/index.html).
+
+<!-- blank line -->
+<br>
 
 ## 2.1.1 Requirement system configuration
 
@@ -66,6 +72,9 @@ The neccessary prerequisite to build and deploy Eclipse Che Kuksa are:
     -   Maven
   
 Additionally, steps for building and running a Eclipse Che Kuksa instance in version 6.x are available [here](https://kuksa-che-ide.readthedocs.io/en/latest/).
+
+<!-- blank line -->
+<br>
 
 ## 2.1.2 How to setup the IDE
 
