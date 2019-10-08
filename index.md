@@ -6,9 +6,13 @@
 
 1.1.2. [How to set up the IDE](./DraftVersion2.md#how-to-setup-the-ide)
 
-1.1.3. [Writing your first Kuksa In-Vehicle App]()
+1.1.2.1 [Model-driven Development of AGL Applications and Services](./DraftVersion2.md#model-driven-development-of-AGL-applications-and-services)
 
-1.1.4. [Writing your first Kuksa Cloud App]()
+2.1.2.2 [IDE](./DraftVersion2.md#ide)
+
+1.1.3. [Writing your first Kuksa In-Vehicle App](./DraftVersion2.md#writing-your-first-kuksa-in-vehicle-app)
+
+1.1.4. [Writing your first Kuksa Cloud App](./DraftVersion2.md#writing-your-first-kuksa-cloud-app)
 
 1.1.5. [Testing your Apps]()
 
