@@ -4,7 +4,7 @@
 
 1.1.1. [Required System Configuration](./DraftVersion2.md#-2.1.1-requirement-system-configuration)
 
-1.1.2. [How to set up the IDE](./DreaftVersion2.md#how-to-setup-the-ide)
+1.1.2. [How to set up the IDE](./DraftVersion2.md#how-to-setup-the-ide)
 
 1.1.3. [Writing your first Kuksa In-Vehicle App]()
 
