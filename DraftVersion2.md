@@ -81,6 +81,8 @@ Additionally, steps for building and running a Eclipse Che Kuksa instance in ver
 <!-- blank line -->
 <br>
 
+{#how-to-setup-the-ide}
+
 ## 2.1.2 How to setup the IDE
 
 To set up Eclipse Che Kuksa, the following steps are necessary. If one wants to build and deploy AGL applications & services within Che:
@@ -92,6 +94,7 @@ To avoid connection trouble, open the Terminal and ssh into the appropriate Devi
 
 <!-- blank line -->
 <br>
+
 
 ## 2.1.2.1 Model-driven Development of AGL Applications and Services
 
