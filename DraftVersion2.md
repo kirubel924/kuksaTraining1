@@ -38,7 +38,7 @@ The open and secure Eclipse Kuksa project will contain a cloud platform that int
 
 The kuksa ecosystem will provide a comprehensive environment across various frameworks and technologies for *the in-vehicle platform*, *the cloud platform*, and *an app development IDE* - that is, the complete tooling stack for the connected vehicle domain [see Figure 1 below](). Essential to this environment will be the capabilities for collecting, storing, and analysing vehicle data in the cloud as well as the transmission of diverse information such as cloud calculation results (e.g. improved routing), software maintenance updates or even complete new applications. While many IoT solutions exist in the Eclipse IoT ecosystem, Eclipse Kuksa combines the necessary existing technologies and fills the gaps for the specific requirements of the connected embedded real-time nature of the automotive domain.[see here for more details](https://www.eclipse.org/kuksa/about/). 
 
-![EKuksa](../ImageFile/EKuksa.png)
+![EKuksa](./ImageFile/EKuksa.png)
 
        Figure 1. Eclipse kuksa ecosystem
 
@@ -116,7 +116,7 @@ Kuksa offers various APIs for implementing vehicle applications, a project templ
 
 Kuksa also supports the simplified deployment of new applications for both the cloud and vehicle components. This is provided by a pre-configured Eclipse Che stack, to which only the address of a target platform must be specified. Configuration, building and deployment can be done at the push of a button without further configuration or processing. Depending on the application, different development tools (e.g. Logging, Debugging, Tracing,...) can be included. Of course, syntax highlighting, code completion, and other necessary IDE functions are supported. For instance, the in-vehicle Eclipse Kuksa Che stack for AGL development activities features including Yocto based SDKs in order to support target specific programming shown in the screenshot below. After compiling and building software, specifying a target IP allows also the deployment process.
 
-![Kuksa_IDE screenshot](../ImageFile/Kuksa_IDE.png)
+![Kuksa_IDE screenshot](./ImageFile/Kuksa_IDE.png)
         
         Figure 2. Kuksa IDE screenshot.
 
