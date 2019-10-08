@@ -99,6 +99,8 @@ To avoid connection trouble, open the Terminal and ssh into the appropriate Devi
 <br>
 
 
+<a name = "model-driven-development-of-AGL-applications-and-services"></a>
+
 ## 2.1.2.1 Model-driven Development of AGL Applications and Services
 
 The Eclipse Che Kuksa instance simplifies the development of AGL applications and services. AGL features the usage of automotive applications based on HTML5, JavaScript, and C/C++, which run on top of AGL. While applications realize a distinct use case, services offers functionality to all applications. For more information please refer to the [AGL documentation](https://docs.automotivelinux.org/docs/apis_services/en/dev/).
@@ -107,6 +109,8 @@ The following sections demonstrate the development of AGL applications/services 
 
 <!-- blank line -->
 <br>
+
+<a name = "ide"></a>
 
 ## 2.1.2.2 IDE
 
@@ -125,6 +129,8 @@ In order to make new applications applicable to a greater amount of vehicles, ap
 <!-- blank line -->
 <br>
 
+<a name = "writing-your-first-kuksa-in-vehicle-app"></a>
+
 ## <span style="color:red">2.1.3 Writing your first Kuksa In-Vehicle App
 
 <!-- blank line -->
@@ -134,6 +140,8 @@ In order to make new applications applicable to a greater amount of vehicles, ap
 
 <!-- blank line -->
 <br>
+
+<a name = "writing-your-first-kuksa-cloud-app"></a>
 
 ## <span style="color:red">2.1.4 Writing your first Kuksa Cloud App
 
