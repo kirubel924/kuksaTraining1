@@ -1,9 +1,8 @@
-1.  [Kuksa App IDE](./DraftVersion2.md#{-2.-kuksa-app-ide})
-   
+1.  [Kuksa App IDE](./DraftVersion2.md#-2.-kuksa-app-ide)   
 
-1.1. [Getting Started with the App IDE](./DraftVersion2.md#-{2.1-getting-started-with-the-app-ide})
+1.1. [Getting Started with the App IDE](./DraftVersion2.md#-2.1-getting-started-with-the-app-ide)
 
-1.1.1. [Required System Configuration](./DraftVersion2.md#-{2.1.1-requirement-system-configuration})
+1.1.1. [Required System Configuration](./DraftVersion2.md#-2.1.1-requirement-system-configuration)
 
 1.1.2. [How to set up the IDE]()
 
