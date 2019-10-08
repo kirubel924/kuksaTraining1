@@ -44,7 +44,7 @@ The kuksa ecosystem will provide a comprehensive environment across various fram
 
 (Source: https://www.eclipse.org/kuksa/about/EKuksa.png )
 
-<a name= "kuksa app ide">
+<a name= "kuksa-app-ide">
 
 ># **2. Kuksa App IDE**
 
@@ -58,7 +58,7 @@ The kuksa ecosystem will provide a comprehensive environment across various fram
 <br>
 </a>
 
-<a name="getting started with the app ide">
+<a name="getting-started-with-the-app-ide">
 
 ## 2.1 Getting Started with the App IDE
 
@@ -67,6 +67,8 @@ Kuksa IDE is built as a full custom Eclipse Che Assembly. Therefore, it includes
 <!-- blank line -->
 <br>
 </a>
+
+<a name="requirement-system-configuration"></a>
 
 ## 2.1.1 Requirement system configuration
 
