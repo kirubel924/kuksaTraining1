@@ -81,7 +81,8 @@ Additionally, steps for building and running a Eclipse Che Kuksa instance in ver
 <!-- blank line -->
 <br>
 
-{#how-to-setup-the-ide}
+<a name="how-to-setup-the-ide"></a>
+
 
 ## 2.1.2 How to setup the IDE
 
