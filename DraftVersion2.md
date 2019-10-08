@@ -308,7 +308,7 @@ Update the fields
 
 
 
-![screenshot](../ImageFile/bt_setup.png)
+![screenshot](./ImageFile/bt_setup.png)
 
     Figure 3. schreenshot of bluetooth connection setup.
 
@@ -403,7 +403,7 @@ The APPSTACLE environment is created to provide addon services to the connected 
 *  Keycloak
 *  ...
 
-<img src="../ImageFile/kuksaComponents.png" width="750" height="300" />
+<img src="./ImageFile/kuksaComponents.png" width="750" height="300" />
 
     *Figure 4. Eclipse base Open source solutions to inreach kuksa components*
 
@@ -426,7 +426,7 @@ the APPSTACLE platform.
 
 Automotive protocols are classified by the Society of Automotive Engineers (SAE) into four categories according to the transmission rate and their role in the automotive architecture. Specifically, Class A defines the protocols that are used for convenience systems (e.g. lighting, windows, seatcontrols) and require inexpensive, low-speed communication. Class B defines the protocols supporting instrument cluster or vehicle speed communication and require medium-speed communication. Furthermore, Class C is defined for real-time control ECUs such as the engine, braking and steer-by-wire and require high-speed communication. Finally, telematics systems usually require higher communication speed for multimedia (audio / video) and navigation, and therefore SAE defined the additional Class D communications. All four protocol Class categories are illustrated in <span style="color:lightblue">Table 1</span> along with the protocols that belong to each category and are used for in-vehicle communication in terms of their characteristics.
 
-![AutomotiveNetwork](../ImageFile/AutomotiveNetwork.png)
+![AutomotiveNetwork](./ImageFile/AutomotiveNetwork.png)
 
     Figure 5. Automotive Network.
 
@@ -476,7 +476,7 @@ Network-2-Infrastructure (N2I).
 
 These types along with their interactions are demonstrated in <span style="color:lightblue">Figure 6</span>.
 
-![V2XCommunicationType](../ImageFile/V2XCommunicationType.png)
+![V2XCommunicationType](./ImageFile/V2XCommunicationType.png)
 
 
 *Figure 6. V2X communication types*
@@ -550,7 +550,7 @@ AUTomotive Open System ARchitecture (AUTOSAR) is a cooperation between car manuf
 OEMs and tool manufacturers and defines a software development paradigm for Electronic Control
 Units (ECUs) in the automotive domain. In order to separate the development process of application software from the chosen ECU hardware platform, AUTOSAR is introducing a layer model with the three layers Application Software, Runtime Environment and Basic Software (illustrated IN <span style="color:lightblue">Figure 5</span>).
 
-![Autosar Layer Models](../ImageFile/AutosarLayerModel.png)
+![Autosar Layer Models](./ImageFile/AutosarLayerModel.png)
 
 
     Figure 7. Autosar Layers
