@@ -1,4 +1,4 @@
-1. [Kuksa App IDE](../kuksa.md)
+##1. [Kuksa App IDE](../kuksa.md)
 
 1.1 [Getting Started with the App IDE]()
 
