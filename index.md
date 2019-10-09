@@ -1,10 +1,10 @@
-<p align="left">  
+<p style='text-align: justify;'> 
 
 1.  [Kuksa App IDE](./DraftVersion2.md#kuksa-app-ide)   
    
-</p>
+   </p>
 
-<p align="center">
+   <p style='text-align: right;'> 
 
 1.1. [Getting Started with the App IDE](./DraftVersion2.md#getting-started-with-the-app-ide)
 
