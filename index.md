@@ -28,7 +28,7 @@
 
 2.1. [Getting started with the In-Vehicle platform](./DraftVersion2.md#getting-started-with-the-invehicle-platform)
 
-2.1.1. [Required System Configuration (HW/SW)](:/DraftVersion2.md#required-system-configration)
+2.1.1. [Required System Configuration (HW/SW)](./DraftVersion2.md#required-system-configration)
 
 2.1.2. [Set up the platform](./DraftVersion2.md#set-up-the-platform)
 
