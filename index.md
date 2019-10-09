@@ -2,7 +2,7 @@
 
 1.  [Kuksa App IDE](./DraftVersion2.md#kuksa-app-ide)   
    
-->1.1. [Getting Started with the App IDE](./DraftVersion2.md#getting-started-with-the-app-ide)<-
+1.1. [Getting Started with the App IDE](./DraftVersion2.md#getting-started-with-the-app-ide)
 
 1.1.1. [Required System Configuration](./DraftVersion2.md#requirement-system-configuration)
 
@@ -34,7 +34,7 @@
 
 2.1.2. [Set up the platform](./DraftVersion2.md#set-up-the-platform)
 
-- [-using a RPi](./DraftVersion2.md#building-using-rpi)
+  + [-using a RPi](./DraftVersion2.md#building-using-rpi)
 
 2.1.3. [Connect the platform to a Kuksa portal](./DraftVersion2.md#connect-the-platform-to-kuksa-portal)
 
