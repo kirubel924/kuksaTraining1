@@ -1,9 +1,14 @@
-<p align="justify">
-  
+<p align="left">  
 
 1.  [Kuksa App IDE](./DraftVersion2.md#kuksa-app-ide)   
+   
+</p>
+
+<p align="center">
 
 1.1. [Getting Started with the App IDE](./DraftVersion2.md#getting-started-with-the-app-ide)
+
+</p>
 
 1.1.1. [Required System Configuration](./DraftVersion2.md#requirement-system-configuration)
 
