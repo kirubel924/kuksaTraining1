@@ -1,3 +1,6 @@
+<p align="justify">
+  
+
 1.  [Kuksa App IDE](./DraftVersion2.md#kuksa-app-ide)   
 
 1.1. [Getting Started with the App IDE](./DraftVersion2.md#getting-started-with-the-app-ide)
@@ -67,3 +70,6 @@
 3.4. [Overview of the Kuksa Cloud API](./DraftVersion2.md#overview-of-kuksa-cloud-api)
 
 3.5. [Marketplace presentation and features](./DraftVersion2.md#marketplace-presentation-and-features)
+
+
+</p>
