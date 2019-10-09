@@ -1,14 +1,8 @@
-<p style='text-align: justify;'> 
+
 
 1.  [Kuksa App IDE](./DraftVersion2.md#kuksa-app-ide)   
    
-   </p>
-
-   <p style='text-align: right;'> 
-
-1.1. [Getting Started with the App IDE](./DraftVersion2.md#getting-started-with-the-app-ide)
-
-</p>
+->1.1. [Getting Started with the App IDE](./DraftVersion2.md#getting-started-with-the-app-ide)<-
 
 1.1.1. [Required System Configuration](./DraftVersion2.md#requirement-system-configuration)
 
