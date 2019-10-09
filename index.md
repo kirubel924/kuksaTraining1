@@ -40,30 +40,30 @@
 
 2.1.5. [Install an In-Vehicle App](./DraftVersion2.md#install-an-invehicle-app)
 
-2.1.6. [Test the In-Vehicle App]()
+2.1.6. [Test the In-Vehicle App](./DraftVersion2.md#test-the-invehicle-app)
 
-2.2. [Configure the In-Vehicle platform]()
+2.2. [Configure the In-Vehicle platform](./DraftVersion2.md#configure-the-invehicle-platform)
 
-2.3. [Overview of the In-Vehicle platform and its architecture]()
+2.3. [Overview of the In-Vehicle platform and its architecture](./DraftVersion2.md#overview-of-the-invehicle-platform-and-architecture)
 
-2.4. [Overview of the Kuksa In-Vehicle API]()
+2.4. [Overview of the Kuksa In-Vehicle API](./DraftVersion2.md#overview-of-kuksa-invehicle-api)
 
-1. [Kuksa Cloud Platform]()
+1. [Kuksa Cloud Platform](./DraftVersion2.md#kuksa-cloud-platform)
 
-3.1. [Getting started with the Cloud platform]()
+3.1. [Getting started with the Cloud platform](./DraftVersion2.md#getting-started-with-the-cloud-platform)
 
-3.1.1. [Required System Configuration]()
+3.1.1. [Required System Configuration](./DraftVerion2.md#required-system-configuration)
 
-3.1.2. [Installing and testing the Cloud platform]()
+3.1.2. [Installing and testing the Cloud platform](./DraftVersion2.md#installing-and-testing-cloud-platform)
 
-3.1.3. [Installing a Cloud App and its In-Vehicle App]()
+3.1.3. [Installing a Cloud App and its In-Vehicle App](./DraftVersion2.md#installing-cloud-app-and-invehicle-app)
 
-3.1.4. [Testing the Cloud App]()
+3.1.4. [Testing the Cloud App](./DraftVersion2.md#testing-cloud-app)
 
-3.2. [Configuring the Cloud platform]()
+3.2. [Configuring the Cloud platform](./DraftVersion2.md#configuing-cloud-platform)
 
-3.3. [Overview of the Cloud platform and its architecture]()
+3.3. [Overview of the Cloud platform and its architecture](./DraftVersion2.md#overview-of-cloud-platform-and-its-architecture)
 
-3.4. [Overview of the Kuksa Cloud API]()
+3.4. [Overview of the Kuksa Cloud API](./DraftVersion2.md#overview-of-kuksa-cloud-api)
 
-3.5. [Marketplace presentation and features]()
+3.5. [Marketplace presentation and features](./DraftVersion2.md#marketplace-presentation-and-features)

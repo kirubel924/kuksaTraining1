@@ -405,15 +405,21 @@ This tutorial [link](https://app4mc-rover.github.io/rover-docs/content/installat
 <!-- blank line -->
 <br>
 
+<a name ="test-the-invehicle-app"></a>
+
 ## <span style="color:red"> *3.1.6 Test the In-Vehicle App* </span>
 
 <!-- blank line -->
 <br>
 
+<a name ="configure-the-invehicle-platform"></a>
+
 ## <span style="color:red"> *3.2 Configure the In-Vehicle platform* </span>
 
 <!-- blank line -->
 <br>
+
+<a name ="overview-of-the-invehicle-platform-and-architecture"></a>
 
 ## 3.3 Overview of the In-Vehicle platform and its architecture.
 
@@ -730,6 +736,8 @@ which forms the middle layer. The RTE specification document defines a schema fo
 <!-- blank line -->
 <br>
 
+<a name ="overview-of-kuksa-invehicle-api"></a>
+
 ## 3.4 Overview of the Kuksa In-Vehicle API
 
 The Kuksa In-Vehicle API implementation is based on [W3C Vehicle Information Service Specification](https://www.w3.org/TR/2018/CR-vehicle-information-service-20180213/). 
@@ -746,9 +754,13 @@ The overall details on how to build and run W3C as well as details of W3C VIS Se
 <!-- blank line -->
 <br>
 
+<a name ="kuksa-cloud-platform"></a>
+
 # **4 Kuksa Cloud Platform**
 <!-- blank line -->
 <br>
+
+<a name ="getting-started-with-the-cloud-platform"></a>
 
 ## 4.1 Getting started with the cloud platform
 
@@ -766,6 +778,8 @@ The deployment scripts are divided into the following parts:
 
 <!-- blank line -->
 <br>
+
+<a name ="required-system-configuration"></a>
 
 ## <span style="color:red"> *4.1.1 Required System Configuration* </span>
 
@@ -785,20 +799,28 @@ For detail information, follow the [link](https://github.com/eclipse/kuksa.cloud
 <!-- blank line -->
 <br>
 
+<a name ="installing-and-testing-cloud-platform"></a>
+
 ## <span style="color:red"> *4.1.2 Installing and testing the Cloud platform* </span>
 
 <!-- blank line -->
 <br>
+
+<a name ="installing-cloud-app-and-invehicle-app"></a>
 
 ## <span style="color:red"> *4.1.3 Installing a Cloud App and its In-Vehicle App* </span>
 
 <!-- blank line -->
 <br>
 
+<a name ="testing-cloud-app"></a>
+
 ## <span style="color:red"> *4.1.4 Testing the Cloud App* </span>
 
 <!-- blank line -->
 <br>
+
+<a name ="configuing-cloud-platform"></a>
 
  ## 9.2 Configuring the Cloud platform
 
@@ -806,17 +828,24 @@ For detail information, follow the [link](https://github.com/eclipse/kuksa.cloud
 - Similarly, the [Eclipse hawkBit Deployment](https://github.com/eclipse/kuksa.cloud/tree/master/deployment/eclipse-hawkbit) repo link consists of neccessary deployment steps.  
 - Deployment of Eclipse hawkBit can be found from the repo link [here](https://github.com/eclipse/kuksa.cloud/tree/master/deployment/eclipse-hawkbit).
 - Eclipse Hono Deployment is available from this [link](https://github.com/eclipse/kuksa.cloud/tree/master/deployment/eclipse-hono).
-- Kubernetes-specific functionality details can be accessed from the repo link [here](https://github.com/eclipse/kuksa.cloud/tree/master/deployment/kubernetes).
+- Kubernetes-specific functionality details can be accessed from the repo link [here](https://github.com/eclipse/kuksa.cloud/tree/master/deployment/kubernetes)
+  
+
+<a name ="overview-of-cloud-platform-and-its-architecture"></a>
 
 ## <span style="color:red"> *4.3 Overview of the Cloud platform and its architecture* </span>
 
 <!-- blank line -->
 <br>
 
+<a name ="overview-of-kuksa-cloud-api"></a>
+
 ## <span style="color:red"> *4.4 Overview of the Kuksa Cloud API* </span>
  
  <!-- blank line -->
 <br>
+
+<a name ="marketplace-presentation-and-features"></a>
 
 ## 4.5 Marketplace presentation and features
 
