@@ -150,26 +150,36 @@ In order to make new applications applicable to a greater amount of vehicles, ap
 <!-- blank line -->
 <br>
 
+<a name = "test-your-apps"></a>
+
 ## <span style="color:red"> *2.1.5 Testing your Apps* </span>
 
 <!-- blank line -->
 <br>
+
+<a name ="deploying-your-app"></a>
 
 ## <span style="color:red"> *2.1.6 Deploying your Apps* </span>
 
 <!-- blank line -->
 <br>
 
+<a name ="install-your-in-vehicle-app-in-your-car"></a>
+
 ## <span style="color:red"> *2.1.7 Install your In-Vehicle App in your car (see In-Vehicle platform Getting Started)* </span>
 
 <!-- blank line -->
 <br>
+
+<a name ="install-your-cloud-app-in-your-cloud"></a>
 
 ## <span style="color:red"> *2.1.8 Install your Cloud App in your Cloud (see Cloud platform Getting Started)* </span>
 
 <!-- blank line -->
 <br>
  
+<a name ="some-kuksa-app-example"></a>
+
 ## 2.2 Some Kuksa App examples
  
 
@@ -178,10 +188,14 @@ The eclipse Che doesn’t provide a standard mechanism to add custom sample proj
 <!-- blank line -->
 <br>
 
+<a name ="kuksa-in-vehicle-platform"></a>
+
 # **3 Kuksa In-Vehicle platform**
 
 <!-- blank line -->
 <br>
+
+<a name ="getting-started-with-the-invehicle-platform"></a>
 
 ## 3.1 Getting started with the In-vehicle platoform
 
@@ -191,6 +205,8 @@ Kuksa is a wrapper project around Automotive Grade Linux (AGL). From its side, A
 
 <!-- blank line -->
 <br>
+
+<a name ="required-system-configration"></a>
 
 ## 3.1.1 Required System Configuration (HW/SW)
 
@@ -285,9 +301,13 @@ Now copy the meta-kuksa folder (Link : https://github.com/eclipse/kuksa.invehicl
 <!-- blank line -->
 <br>
 
+<a name ="set-up-the-platform"></a>
+
 ## 3.1.2 Set up the platform
 
 To get started with In-Vehicle platform: AGL KUKSA Build and Run on Raspberry Pi 3 / Compute Module 3 (Lite) can be found from the link [here](https://github.com/eclipse/kuksa.invehicle/tree/master/agl-kuksa).
+
+<a name ="building-using-rpi"></a>
 
 ## Building for the Raspberry Pi Compute Module 3 (Lite)
 
@@ -306,7 +326,7 @@ The AGL image with meta-kuksa layer adds w3c-visserver-api and elm327-visdatafee
 
 --- Ignore this step if wifi is not required ---
 
-With meta-kuksa layer the wifi connection could be set up while building an Image so that the target device connects to the specified wifi, which make it easier to ssh into the device. The wifi settings could be configured by modifying the meta-kuksa/recipes-devtools/wifi-conf/files/wifi_default.config file. Update the "Name" and the "Passphrase" of the wifi you want the device to connect to. More more secured wifi connection please refer to the link
+With meta-kuksa layer the wifi connection could be set up while building an Image so that the target device connects to the specified wifi, which make it easier to ssh into the device. The wifi settings could be configured by modifying the meta-kuksa/recipes-devtools/wifi-conf/files/wifi_default.config file. Update the "Name" and the "Passphrase" of the wifi you want the device to connect to. More more secured wifi connection please refer to the [link](https://manpages.debian.org/testing/connman/connman-service.config.5.en.html)
 
 ## configure Bluetooth connection with ELM 327 bluetooth adapter
 
@@ -333,6 +353,8 @@ $HOME/workspace_agl/build/tmp/deploy/images/raspberrypi3
 <!-- blank line -->
 <br>
 
+<a name ="connect-the-platform-to-kuksa-portal"></a>
+
 ## 3.1.3 Connect the platform to Kuksa portal
 
 Once the image is ready, burn it onto a SD-card and boot up the image on raspi 3. The w3c-visserver-api requires the vss_rel_1.0.json file to set up the vss tree structure. This file can be copied to the /usr/bin/w3c-visserver folder by using scp command (sample file is available under https://github.com/GENIVI/vehicle_signal_specification or could also be generated using the tools in the repo). Once the file has been copied reboot the raspi 3.
@@ -353,10 +375,14 @@ The Datalogger example for kuksa-app which connects to the w3c-visserver service
 <!-- blank line -->
 <br>
 
+<a name ="search-for-invehicle-app"></a>
+
 ## <span style="color:red"> *3.1.4 Search for an In-Vehicle App* </span>
 
 <!-- blank line -->
 <br>
+
+<a name ="install-an-invehicle-app"></a>
 
 ## 3.1.5 Install an In-Vehicle App
 
