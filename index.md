@@ -73,8 +73,6 @@
 
 <p align="center">
   <a href="https://github.com/M3SResearch/kuksadoc" class="fancybox" target="_blank" rel="external"><img src="http://i.imgur.com/0o48UoR.png" width="40" height="45" alt="GitHub" title="GitHub"></a>  
- 
-  <a href="https://twitter.com/kuksa" class="fancybox" target="_blank" rel="external"><img src="http://i.imgur.com/tXSoThF.png" width="40" height="45" alt="Twitter" title="Twitter"></a>
-  
+  <a href="https://twitter.com/kuksa" class="fancybox" target="_blank" rel="external"><img src="http://i.imgur.com/tXSoThF.png" width="40" height="45" alt="Twitter" title="Twitter"></a>  
   <a href="https://www.facebook.com/kuksa" class="fancybox" target="_blank" rel="external"><img src="http://i.imgur.com/P3YfQoD.png" width="40" height="45" alt="Facebook" title="Facebook"></a>
 </p>
