@@ -75,14 +75,6 @@
   <a href="https://github.com/M3SResearch/kuksadoc" class="fancybox" target="_blank" rel="external"><img src="http://i.imgur.com/0o48UoR.png" width="40" height="45" alt="GitHub" title="GitHub"></a>  
   <a href="https://twitter.com/kuksa" class="fancybox" target="_blank" rel="external"><img src="http://i.imgur.com/tXSoThF.png" width="40" height="45" alt="Twitter" title="Twitter"></a>  
   <a href="https://www.facebook.com/kuksa" class="fancybox" target="_blank" rel="external"><img src="http://i.imgur.com/P3YfQoD.png" width="40" height="45" alt="Facebook" title="Facebook"></a>
-    <a href="https://www.youtube.com/kuksa" class="fancybox" target="_blank" rel="external"><img src="http://i.imgur.com/P3YfQoD.png" width="40" height="45" alt="Youtube" title="Youtube"></a>
 </p>
 
-<div id="footer-social" class="footer-layer">
-                      <div class="footer-social">
-                          <a target="_blank" href="https://www.facebook.com/kuksa"><img src="http://i.imgur.com/P3YfQoD.png" /></a>
-                          <a target="_blank" href="https://www.instagram.com/kuksa/"><img src="/instancedata/prime_product_julkaisu/infopankki/pics/icon-ig.png" /></a>
-                          <a target="_blank" href="https://www.youtube.com/kuksa"><img src="/instancedata/prime_product_julkaisu/infopankki/pics/icon-yt.png" /></a>
-                          <a target="_blank" href="https://twitter.com/kuksa"><img src="/instancedata/prime_product_julkaisu/infopankki/pics/icon-tw.png" /></a>
-                      </div>
-              </div>
+
