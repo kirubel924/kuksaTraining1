@@ -80,9 +80,9 @@
 
 <div id="footer-social" class="footer-layer">
                       <div class="footer-social">
-                          <a target="_blank" href="https://www.facebook.com/infofinland.fi?ref=ts&amp;fref=ts"><img src="/instancedata/prime_product_julkaisu/infopankki/pics/icon-fb.png" /></a>
-                          <a target="_blank" href="https://www.instagram.com/infofinland.fi/"><img src="/instancedata/prime_product_julkaisu/infopankki/pics/icon-ig.png" /></a>
-                          <a target="_blank" href="https://www.youtube.com/c/infofinland"><img src="/instancedata/prime_product_julkaisu/infopankki/pics/icon-yt.png" /></a>
-                          <a target="_blank" href="https://twitter.com/InfoFinlandfi"><img src="/instancedata/prime_product_julkaisu/infopankki/pics/icon-tw.png" /></a>
+                          <a target="_blank" href="https://www.facebook.com/kuksa"><img src="http://i.imgur.com/P3YfQoD.png" /></a>
+                          <a target="_blank" href="https://www.instagram.com/kuksa/"><img src="/instancedata/prime_product_julkaisu/infopankki/pics/icon-ig.png" /></a>
+                          <a target="_blank" href="https://www.youtube.com/kuksa"><img src="/instancedata/prime_product_julkaisu/infopankki/pics/icon-yt.png" /></a>
+                          <a target="_blank" href="https://twitter.com/kuksa"><img src="/instancedata/prime_product_julkaisu/infopankki/pics/icon-tw.png" /></a>
                       </div>
               </div>
