@@ -24,7 +24,7 @@
 
 
 
-> # **1. Introduction To Kuksa**
+ # **1. Introduction To Kuksa**
 
 ## *1.1 Need of Kuksa:* 
 
@@ -46,7 +46,7 @@ The kuksa ecosystem will provide a comprehensive environment across various fram
 
 <a name= "kuksa-app-ide">
 
-># **2. Kuksa App IDE**
+ # **2. Kuksa App IDE** # 
 
 ### *Table 1. Eclipse Che Kuksa instance version*
    |Available|Version number|
