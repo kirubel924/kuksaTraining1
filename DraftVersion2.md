@@ -131,7 +131,7 @@ In order to make new applications applicable to a greater amount of vehicles, ap
 
 <a name = "writing-your-first-kuksa-in-vehicle-app"></a>
 
-## <span style="color:red">2.1.3 Writing your first Kuksa In-Vehicle App
+> ## <span style="color:red">2.1.3 Writing your first Kuksa In-Vehicle App
 
 <!-- blank line -->
 <br>
@@ -143,7 +143,7 @@ In order to make new applications applicable to a greater amount of vehicles, ap
 
 <a name = "writing-your-first-kuksa-cloud-app"></a>
 
-## <span style="color:red">2.1.4 Writing your first Kuksa Cloud App
+> ## <span style="color:red">2.1.4 Writing your first Kuksa Cloud App
 
 <span style="color:red">Demo Kuksa Cloude App can be found from the repository link [here](https://github.com/eclipse/kuksa.apps/tree/master/cloud-apps). However, by the time of preparing this document, the repository content was void.
 
