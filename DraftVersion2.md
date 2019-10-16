@@ -131,7 +131,7 @@ In order to make new applications applicable to a greater amount of vehicles, ap
 
 <a name = "writing-your-first-kuksa-in-vehicle-app"></a>
 
-> ## <span style="color:red">2.1.3 Writing your first Kuksa In-Vehicle App
+## <span style="color:red">2.1.3 Writing your first Kuksa In-Vehicle App
 
 <!-- blank line -->
 <br>
@@ -143,7 +143,7 @@ In order to make new applications applicable to a greater amount of vehicles, ap
 
 <a name = "writing-your-first-kuksa-cloud-app"></a>
 
-> ## <span style="color:red">2.1.4 Writing your first Kuksa Cloud App
+## <span style="color:red">2.1.4 Writing your first Kuksa Cloud App
 
 <span style="color:red">Demo Kuksa Cloude App can be found from the repository link [here](https://github.com/eclipse/kuksa.apps/tree/master/cloud-apps). However, by the time of preparing this document, the repository content was void.
 
@@ -152,28 +152,28 @@ In order to make new applications applicable to a greater amount of vehicles, ap
 
 <a name = "test-your-apps"></a>
 
-## <span style="color:red"> *2.1.5 Testing your Apps* </span>
+> ## <span style="color:red"> *2.1.5 Testing your Apps* </span>
 
 <!-- blank line -->
 <br>
 
 <a name ="deploying-your-app"></a>
 
-## <span style="color:red"> *2.1.6 Deploying your Apps* </span>
+> ## <span style="color:red"> *2.1.6 Deploying your Apps* </span>
 
 <!-- blank line -->
 <br>
 
 <a name ="install-your-in-vehicle-app-in-your-car"></a>
 
-## <span style="color:red"> *2.1.7 Install your In-Vehicle App in your car (see In-Vehicle platform Getting Started)* </span>
+> ## <span style="color:red"> *2.1.7 Install your In-Vehicle App in your car (see In-Vehicle platform Getting Started)* </span>
 
 <!-- blank line -->
 <br>
 
 <a name ="install-your-cloud-app-in-your-cloud"></a>
 
-## <span style="color:red"> *2.1.8 Install your Cloud App in your Cloud (see Cloud platform Getting Started)* </span>
+> ## <span style="color:red"> *2.1.8 Install your Cloud App in your Cloud (see Cloud platform Getting Started)* </span>
 
 <!-- blank line -->
 <br>
@@ -407,14 +407,14 @@ This tutorial [link](https://app4mc-rover.github.io/rover-docs/content/installat
 
 <a name ="test-the-invehicle-app"></a>
 
-## <span style="color:red"> *3.1.6 Test the In-Vehicle App* </span>
+> ## <span style="color:red"> *3.1.6 Test the In-Vehicle App* </span>
 
 <!-- blank line -->
 <br>
 
 <a name ="configure-the-invehicle-platform"></a>
 
-## <span style="color:red"> *3.2 Configure the In-Vehicle platform* </span>
+> ## <span style="color:red"> *3.2 Configure the In-Vehicle platform* </span>
 
 <!-- blank line -->
 <br>
@@ -801,21 +801,21 @@ For detail information, follow the [link](https://github.com/eclipse/kuksa.cloud
 
 <a name ="installing-and-testing-cloud-platform"></a>
 
-## <span style="color:red"> *4.1.2 Installing and testing the Cloud platform* </span>
+> ## <span style="color:red"> *4.1.2 Installing and testing the Cloud platform* </span>
 
 <!-- blank line -->
 <br>
 
 <a name ="installing-cloud-app-and-invehicle-app"></a>
 
-## <span style="color:red"> *4.1.3 Installing a Cloud App and its In-Vehicle App* </span>
+> ## <span style="color:red"> *4.1.3 Installing a Cloud App and its In-Vehicle App* </span>
 
 <!-- blank line -->
 <br>
 
 <a name ="testing-cloud-app"></a>
 
-## <span style="color:red"> *4.1.4 Testing the Cloud App* </span>
+> ## <span style="color:red"> *4.1.4 Testing the Cloud App* </span>
 
 <!-- blank line -->
 <br>
@@ -833,14 +833,14 @@ For detail information, follow the [link](https://github.com/eclipse/kuksa.cloud
 
 <a name ="overview-of-cloud-platform-and-its-architecture"></a>
 
-## <span style="color:red"> *4.3 Overview of the Cloud platform and its architecture* </span>
+> ## <span style="color:red"> *4.3 Overview of the Cloud platform and its architecture* </span>
 
 <!-- blank line -->
 <br>
 
 <a name ="overview-of-kuksa-cloud-api"></a>
 
-## <span style="color:red"> *4.4 Overview of the Kuksa Cloud API* </span>
+> ## <span style="color:red"> *4.4 Overview of the Kuksa Cloud API* </span>
  
  <!-- blank line -->
 <br>
@@ -931,7 +931,7 @@ In addition:
 
 The Eclipse Kuksa Appstore contains: 
 
-> ### Build Eclipse Kuksa Appstore
+### Build Eclipse Kuksa Appstore
 
     Script:
         build_kuksa_appstore.sh
@@ -950,7 +950,7 @@ The Eclipse Kuksa Appstore contains:
         Final cleanup
             Remove the clones Git repository
 
->### Deploy Eclipse Kuksa Appstore
+### Deploy Eclipse Kuksa Appstore
 
     Script:
         deploy_kuksa_appstore.sh
